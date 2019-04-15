@@ -1,0 +1,15 @@
+public class quizq1{
+  public static void main(String args[]){
+    java.util.Scanner abesh=new java.util.Scanner(System.in);
+    sum=10000000;
+    for(int i=1;i<=9;i+){
+      if (i%4==0){
+      sum=sum/10;
+      System.out.print(" "+sum*-1);}
+    else{
+      sum=sum/10;
+      System.out.print(" "+sum);
+    }
+  }
+  }
+}
