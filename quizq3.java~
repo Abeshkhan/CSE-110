@@ -1,0 +1,11 @@
+public class quizq3{
+  public static void main(String args[]){
+    java.util.Scanner abesh=new java.util.Scanner (System.in);
+    int a=abesh.nextInt();
+    for(int row=1;row<=i;row++){
+      for(int col=1;col<=row;col++){
+        System.out.print(row);
+      }
+    }
+  }
+}
